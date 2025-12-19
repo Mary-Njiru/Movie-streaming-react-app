@@ -83,6 +83,3 @@ Ensure you have the following installed:
 
 Deployed on Vercel with automatic rewrites configuration for SPA routing support. See `vercel.json` for deployment settings.
 
-## Contributing
-
-Contributions are welcome!
